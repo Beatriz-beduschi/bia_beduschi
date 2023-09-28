@@ -1,22 +1,27 @@
-👩‍💻 Software Engineer | Power BI | Front-end | Python | SQL | Salesforce
+👩‍💻 Engenheira de Software | Power BI | Front-end | Python | SQL | Salesforce
 
-💼 Passionate about data, design, and development. Turning insights into actions through software.
+💼 Apaixonada por dados, design e desenvolvimento. Transformando insights em ações por meio de software.
 
-🛠️ Technical Skills:
+🛠️ Habilidades Técnicas:
 - 💡 Power BI
 - 🌐 Front-end (HTML, CSS, JavaScript)
 - 🐍 Python
 - 📊 SQL
 - ☁️ Salesforce
 
-💻 Notable Projects:
-- 📈 Interactive Power BI dashboards for business data analysis.
-- 🌟 Responsive and intuitive user interfaces for web applications.
-- 🐍 Python scripts for task automation and data analysis.
-- 📚 SQL queries for valuable insights from databases.
-- ☁️ Customization and integration of solutions in Salesforce.
+💻 Projetos Destacados:
+- 📈 Dashboards interativos com Power BI para análise de dados de negócios.
+- 🐍 Scripts Python para automatização de tarefas e análise de dados.
+- 📚 Consultas SQL para insights valiosos em bancos de dados.
+- ☁️ Personalização e integração de soluções no Salesforce.
 
-📈 Always seeking challenges and continuous learning. Let's build something amazing together!
+📈 Sempre em busca de desafios e aprendizado contínuo. Vamos construir algo incrível juntos!
 
-🌐 Connect with Me:
-[Your Link to Other Social Networks or Contact Information]
+🌐 Conecte-se Comigo:
+📧 beatrizbeduschitaiao@gmail.com
+☎️ (+55) 41 99608-5334
+
+<div >
+  <a href="https://github.com/bia_beduschi">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=bia_beduschi&show_icons=true&theme+dracula&include_all_commits=true&count_private=true"/>
+</div>
